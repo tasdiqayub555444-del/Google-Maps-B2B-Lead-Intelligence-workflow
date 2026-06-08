@@ -197,3 +197,4 @@ This project is intended for business intelligence, lead generation, and sales p
 ## Author
 
 Developed as a workflow automation project focused on transforming publicly available business listings into structured B2B sales intelligence using modern no-code and low-code automation technologies.
+Tasdiq Ayub
